@@ -5,4 +5,4 @@ Hello! I am Mingoo (Danny) Jun, I have comprehensive knowledge of biotechnology 
 
 ## Projects
 1. Analyzing Data using Microsoft SQL Server Management Studio and PowerBI
-   - git submdule add https://github.com/MangoIsYum/Projects/tree/main/SQL%20Project path/to/submodule
+   - [SQL Project](https://github.com/MangoIsYum/Projects/tree/main/SQL%20Project)
